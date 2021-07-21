@@ -17,8 +17,14 @@ public class ClasePrueba {
     public int division(int a, int b){
         return a/b;
     }   
-    //Rama
+    //Rama 234234 234
     public int resto(int a, int b){
         return a%b;
     }    
+    
+    public int nuevo(int a, int b){
+        return a+b;
+    }    
+
+    
 }
