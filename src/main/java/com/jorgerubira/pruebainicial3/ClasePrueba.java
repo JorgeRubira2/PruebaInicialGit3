@@ -16,7 +16,8 @@ public class ClasePrueba {
     //Comentario 4b
     public int division(int a, int b){
         return a/b;
-    }    
+    }   
+    //Rama
     public int resto(int a, int b){
         return a%b;
     }    
