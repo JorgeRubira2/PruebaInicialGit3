@@ -1,7 +1,7 @@
 package com.jorgerubira.pruebainicial3;
 
 public class ClasePrueba {
-    //Comentario 3
+    //Comentario 3b
     public int suma(int a, int b){
         return a+b;
     }
@@ -12,7 +12,7 @@ public class ClasePrueba {
     public int multiplicacion(int a, int b){
         return a*b;
     }
-    //Comentario 4
+    //Comentario 4b
     public int division(int a, int b){
         return a/b;
     }    
